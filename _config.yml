@@ -6,3 +6,5 @@ plugins:
   - jekyll-remote-theme
 
 color_scheme: light
+
+logo: "/assets/images/edam_logo_square.png" 
