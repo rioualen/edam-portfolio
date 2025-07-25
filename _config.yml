@@ -5,6 +5,8 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
 
+# Enable dark/light toggle
+color_scheme_toggle: true
 color_scheme: light
 
 logo: "/assets/images/edam_logo_square.png" 
