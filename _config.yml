@@ -2,7 +2,7 @@ title: My Portfolio
 description: A personal portfolio site
 remote_theme: just-the-docs/just-the-docs
 
-baseurl: "/edam-portfolio"
+baseurl: "/edam-portfolio.github.io"
 
 plugins:
   - jekyll-remote-theme
