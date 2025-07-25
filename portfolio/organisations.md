@@ -1,10 +1,10 @@
 ---
-title: "Organisations / National & International Infrastructures"
+title: "Organisations"
 nav_order: 1
 parent: "Portfolio"
 ---
 
-# Organisations / National & International Infrastructures
+# Organisations
 
 This section highlights involvement in international and national infrastructure initiatives, including major open-source software ecosystems and collaborative platforms.
 
